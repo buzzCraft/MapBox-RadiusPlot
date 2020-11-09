@@ -21,10 +21,10 @@
 
 <div id="mapid" style="width: 1000px; height: 700px;"></div>
 <script>
-//  $.ajax({
 
+  
+//Function to draw a circle and a dot
 function draw(land,lat){
- ;
   drawCircle(land,lat);
   drawDot(land,lat)
   
@@ -34,28 +34,29 @@ function draw(land,lat){
     function drawCircle(land,lat){
        
         L.circle([land,lat], {
-        color: 'red',
-        opacity: 0,
+        color: 'red', //Stroke (can be removed sinse opacity = 0, but keeping it for reference)
+        opacity: 0, //Stroke opacity
         fillColor: '#f03',
         fillOpacity: 0.5,
-        radius: R
+        radius: R //Global R 
       }).addTo(mymap);
 
     }
     function drawDot(land,lat){
        
         L.circle([land,lat], {
-        color: 'red',
+        color: 'red', 
         opacity: 0,
         fillColor: 'blue',
         fillOpacity: 1,
-        radius: 25
+        radius: 25  // Radius 25 will provide a nice dot
       }).addTo(mymap);
 
     }
 
-  var mymap = L.map('mapid').setView([59.928349,10.77837], 13);
-  var R = 500;
+  var mymap = L.map('mapid').setView([59.928349,10.77837], 13); //Setting starting view to current zone
+  var R = 500; // Setting radius 
+  // Code snipet from https://github.com/Leaflet/Leaflet/blob/master/docs/examples/quick-start/example-overlays.md
   L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
     maxZoom: 18,
     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
@@ -67,7 +68,7 @@ function draw(land,lat){
   }).addTo(mymap);
 
  
-
+//TODO - Read all cords from cords.csv and feed them to this function
 draw(59.918632,10.757867);
 draw(59.928349,10.77837);
 draw(59.912793405455375,10.710103028570302);

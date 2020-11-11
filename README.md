@@ -1,6 +1,6 @@
 # MapBox-RadiusPlot
 A easy way to plot multiple circles of radius R on a mapBox map using leaflet
 
+Read latitude and longitude from a csv file and draw a circle of radius R around that point.
 
-//TO DO
-Add a loop that get all value pairs from coords.csv and pass the values to the draw function 
+Live demo: https://buzzcraft.github.io/MapBox-RadiusPlot/

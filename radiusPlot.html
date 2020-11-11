@@ -22,8 +22,10 @@
 <div id="mapid" style="width: 1200px; height: 800px;"></div>
 </center>
 <script>
-//  $.ajax({
+
 var R = 250; //RADIUS IN METERS
+var url = "https://raw.githubusercontent.com/buzzCraft/MapBox-RadiusPlot/main/cords.csv"; //URL TO CSV
+  
 function draw(land,lat){
  ;
   drawCircle(land,lat);
@@ -69,7 +71,7 @@ function draw(land,lat){
   }).addTo(mymap);
 
 // READ cords from CSV
-var url = "https://raw.githubusercontent.com/buzzCraft/MapBox-RadiusPlot/main/cords.csv";
+
 
 var request = new XMLHttpRequest();  
 request.open("GET", url, false);   

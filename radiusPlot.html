@@ -18,13 +18,14 @@
 <body>
 
 
-
-<div id="mapid" style="width: 1000px; height: 700px;"></div>
+<center>
+<div id="mapid" style="width: 1200px; height: 800px;"></div>
+</center>
 <script>
-
-  
-//Function to draw a circle and a dot
+//  $.ajax({
+var R = 250; //RADIUS IN METERS
 function draw(land,lat){
+ ;
   drawCircle(land,lat);
   drawDot(land,lat)
   
@@ -34,29 +35,29 @@ function draw(land,lat){
     function drawCircle(land,lat){
        
         L.circle([land,lat], {
-        color: 'red', //Stroke (can be removed sinse opacity = 0, but keeping it for reference)
-        opacity: 0, //Stroke opacity
+        color: 'black',
+        opacity: 0.1,
+        thickness: 0.1,
         fillColor: '#f03',
-        fillOpacity: 0.5,
-        radius: R //Global R 
+        fillOpacity: 0.1,
+        radius: R
       }).addTo(mymap);
 
     }
     function drawDot(land,lat){
        
         L.circle([land,lat], {
-        color: 'red', 
+        color: 'red',
         opacity: 0,
         fillColor: 'blue',
         fillOpacity: 1,
-        radius: 25  // Radius 25 will provide a nice dot
+        radius: 25
       }).addTo(mymap);
 
     }
 
-  var mymap = L.map('mapid').setView([59.928349,10.77837], 13); //Setting starting view to current zone
-  var R = 500; // Setting radius 
-  // Code snipet from https://github.com/Leaflet/Leaflet/blob/master/docs/examples/quick-start/example-overlays.md
+  var mymap = L.map('mapid').setView([59.928349,10.77837], 13);
+ 
   L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
     maxZoom: 18,
     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
@@ -67,11 +68,23 @@ function draw(land,lat){
     zoomOffset: -1
   }).addTo(mymap);
 
- 
-//TODO - Read all cords from cords.csv and feed them to this function
-draw(59.918632,10.757867);
-draw(59.928349,10.77837);
-draw(59.912793405455375,10.710103028570302);
+// READ cords from CSV
+var url = "https://raw.githubusercontent.com/buzzCraft/MapBox-RadiusPlot/main/cords.csv";
+
+var request = new XMLHttpRequest();  
+request.open("GET", url, false);   
+request.send(null);  
+
+var csvData = new Array();
+var jsonObject = request.responseText.split(/\r?\n|\r/);
+for (var i = 0; i < jsonObject.length; i++) {
+  csvData.push(jsonObject[i].split(','));
+}
+
+//Draw the points
+for (i = 0; i < csvData.length; i++) { 
+  draw(csvData[i][0],csvData[i][1]);
+}
 
 
 

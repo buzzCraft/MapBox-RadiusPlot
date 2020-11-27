@@ -1,251 +1,250 @@
 {"type": "FeatureCollection", "features": [
-{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.778, 59.916]}, "properties": {"Id": 377, "Name": "T\u00f8yenparken", "Change": -43}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.711, 59.93]}, "properties": {"Id": 378, "Name": "Colosseum Kino", "Change": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.759, 59.939]}, "properties": {"Id": 380, "Name": "Bentsebrugata", "Change": -133}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.762, 59.913]}, "properties": {"Id": 381, "Name": "Gr\u00f8nlands torg", "Change": 28}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.733, 59.93]}, "properties": {"Id": 382, "Name": "Stensgata", "Change": -17}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.749, 59.935]}, "properties": {"Id": 383, "Name": "Arkitekt Rivertz Plass", "Change": -429}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.744, 59.919]}, "properties": {"Id": 384, "Name": "V\u00e5r Frelsers gravlund s\u00f8r", "Change": -64}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.758, 59.919]}, "properties": {"Id": 385, "Name": "S\u00f8ndre gate", "Change": 162}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.715, 59.931]}, "properties": {"Id": 386, "Name": "Slemdalsveien", "Change": 8}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.735, 59.915]}, "properties": {"Id": 387, "Name": "Studenterlunden", "Change": 40}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.716, 59.916]}, "properties": {"Id": 388, "Name": "Skovveien", "Change": 6}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.734, 59.921]}, "properties": {"Id": 389, "Name": "Pilestredet Studenthus", "Change": -1}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.733, 59.914]}, "properties": {"Id": 390, "Name": "Saga Kino", "Change": 309}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.738, 59.927]}, "properties": {"Id": 391, "Name": "St. Hanshaugen park vest", "Change": -470}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.752, 59.91]}, "properties": {"Id": 392, "Name": "Sj\u00f8siden ved fontenen", "Change": 904}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.774, 59.939]}, "properties": {"Id": 393, "Name": "Hans Nielsen Hauges plass", "Change": -237}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.76, 59.944]}, "properties": {"Id": 394, "Name": "Bj\u00f8lsen Studentby", "Change": -383}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.71, 59.926]}, "properties": {"Id": 395, "Name": "Frogner Tennisklubb", "Change": -1}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.747, 59.913]}, "properties": {"Id": 396, "Name": "Kirkeristen", "Change": 727}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.774, 59.947]}, "properties": {"Id": 397, "Name": "Storo Storsenter", "Change": -445}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.759, 59.928]}, "properties": {"Id": 398, "Name": "Ringnes Park", "Change": -5}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.749, 59.93]}, "properties": {"Id": 399, "Name": "Uelands gate", "Change": -120}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.735, 59.92]}, "properties": {"Id": 400, "Name": "OsloMet", "Change": 16}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.761, 59.92]}, "properties": {"Id": 401, "Name": "Lille Schous plass", "Change": 12}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.792, 59.931]}, "properties": {"Id": 402, "Name": "L\u00f8renveien", "Change": -495}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.73, 59.922]}, "properties": {"Id": 403, "Name": "Parkveien", "Change": 3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.72, 59.914]}, "properties": {"Id": 404, "Name": "Oslo Handelsgymnasium", "Change": 25}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.709, 59.928]}, "properties": {"Id": 405, "Name": "Frognerbadet", "Change": -25}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.776, 59.925]}, "properties": {"Id": 406, "Name": "Carl Berners plass s\u00f8r", "Change": 1}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.752, 59.938]}, "properties": {"Id": 407, "Name": "Sagene bussholdeplass", "Change": -437}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.774, 59.915]}, "properties": {"Id": 408, "Name": "T\u00f8yen skole", "Change": 0}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.73, 59.94]}, "properties": {"Id": 409, "Name": "John Colletts plass", "Change": -99}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.75, 59.929]}, "properties": {"Id": 410, "Name": "Landstads gate", "Change": -554}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.793, 59.923]}, "properties": {"Id": 411, "Name": "Hasle Torg", "Change": -262}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.755, 59.918]}, "properties": {"Id": 412, "Name": "Jakob kirke", "Change": 21}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.717, 59.929]}, "properties": {"Id": 413, "Name": "Majorstuen", "Change": -7}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.739, 59.91]}, "properties": {"Id": 414, "Name": "Kontraskj\u00e6ret", "Change": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.781, 59.93]}, "properties": {"Id": 415, "Name": "Sinsenveien", "Change": -107}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.741, 59.932]}, "properties": {"Id": 416, "Name": "Tannlegeh\u00f8yskolen", "Change": -179}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.721, 59.922]}, "properties": {"Id": 417, "Name": "Uranienborgparken", "Change": -352}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.687, 59.908]}, "properties": {"Id": 418, "Name": "Norsk Folkemuseum", "Change": -3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.766, 59.94]}, "properties": {"Id": 420, "Name": "Bj\u00f8lsendumpa", "Change": -181}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.751, 59.928]}, "properties": {"Id": 421, "Name": "Alexander Kiellands Plass", "Change": -13}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.741, 59.924]}, "properties": {"Id": 422, "Name": "St. Hanshaugen", "Change": -2}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.761, 59.92]}, "properties": {"Id": 423, "Name": "Schous plass", "Change": 72}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.761, 59.926]}, "properties": {"Id": 424, "Name": "Birkelunden", "Change": 59}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.734, 59.933]}, "properties": {"Id": 425, "Name": "Adamstuen", "Change": -55}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.708, 59.917]}, "properties": {"Id": 426, "Name": "Gimle Kino", "Change": -290}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.718, 59.92]}, "properties": {"Id": 427, "Name": "Briskeby", "Change": -230}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.697, 59.919]}, "properties": {"Id": 428, "Name": "Olav Kyrres plass", "Change": -25}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.686, 59.922]}, "properties": {"Id": 429, "Name": "Thune", "Change": 326}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.736, 59.914]}, "properties": {"Id": 430, "Name": "Spikersuppa Vest", "Change": 1138}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.773, 59.927]}, "properties": {"Id": 431, "Name": "Chr. Michelsens Gate", "Change": -56}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.74, 59.925]}, "properties": {"Id": 432, "Name": "St. Hanshaugen park s\u00f8r", "Change": -143}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.749, 59.932]}, "properties": {"Id": 433, "Name": "Ila", "Change": -247}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.735, 59.936]}, "properties": {"Id": 434, "Name": "Lindern", "Change": -488}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.715, 59.915]}, "properties": {"Id": 435, "Name": "Fram-g\u00e5rden", "Change": -10}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.713, 59.924]}, "properties": {"Id": 436, "Name": "Vestkanttorvet", "Change": -116}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.751, 59.915]}, "properties": {"Id": 437, "Name": "Sentrum Scene", "Change": 641}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.769, 59.949]}, "properties": {"Id": 438, "Name": "BI Nydalen", "Change": -335}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.756, 59.928]}, "properties": {"Id": 439, "Name": "M\u00f8lleparken", "Change": -12}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.762, 59.917]}, "properties": {"Id": 440, "Name": "Lakkegata", "Change": 0}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.741, 59.904]}, "properties": {"Id": 441, "Name": "Vippetangen \u00f8st", "Change": 50}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.751, 59.923]}, "properties": {"Id": 442, "Name": "Vulkan", "Change": -5}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.752, 59.91]}, "properties": {"Id": 443, "Name": "Sj\u00f8siden ved trappen", "Change": 715}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.75, 59.925]}, "properties": {"Id": 444, "Name": "AHO", "Change": -10}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.677, 59.922]}, "properties": {"Id": 445, "Name": "Sj\u00f8lyst", "Change": 31}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.731, 59.925]}, "properties": {"Id": 446, "Name": "Bislett Stadion", "Change": -415}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.786, 59.904]}, "properties": {"Id": 447, "Name": "Kv\u00e6rnerbyen", "Change": -113}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.754, 59.912]}, "properties": {"Id": 448, "Name": "Oslo Plaza", "Change": 17}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.726, 59.914]}, "properties": {"Id": 449, "Name": "Rusel\u00f8kkg\u00e5rden", "Change": 11}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.709, 59.92]}, "properties": {"Id": 450, "Name": "Elisenberg", "Change": -48}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.726, 59.929]}, "properties": {"Id": 451, "Name": "Suhms gate", "Change": -61}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.741, 59.904]}, "properties": {"Id": 452, "Name": "Vippetangen vest", "Change": 90}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.71, 59.928]}, "properties": {"Id": 453, "Name": "Frogner Stadion", "Change": -338}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.651, 59.92]}, "properties": {"Id": 454, "Name": "Furulund", "Change": 0}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.762, 59.922]}, "properties": {"Id": 455, "Name": "Sofienbergparken s\u00f8r", "Change": -9}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.705, 59.91]}, "properties": {"Id": 456, "Name": "Frognerstranda", "Change": -6}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.772, 59.923]}, "properties": {"Id": 457, "Name": "Trondheimsveien", "Change": -12}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.778, 59.928]}, "properties": {"Id": 458, "Name": "Jenny Braatens Plass", "Change": -136}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.769, 59.915]}, "properties": {"Id": 460, "Name": "Botanisk Hage s\u00f8r", "Change": -10}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.787, 59.909]}, "properties": {"Id": 461, "Name": "V\u00e5lerenga", "Change": -1}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.731, 59.927]}, "properties": {"Id": 462, "Name": "Stensparken", "Change": -22}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.759, 59.921]}, "properties": {"Id": 463, "Name": "Schous plass trikkestopp", "Change": -7}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.754, 59.906]}, "properties": {"Id": 464, "Name": "Sukkerbiten", "Change": 168}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.756, 59.909]}, "properties": {"Id": 465, "Name": "Bj\u00f8rvika", "Change": 524}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.73, 59.938]}, "properties": {"Id": 466, "Name": "Ullev\u00e5lsall\u00e9en", "Change": -53}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.71, 59.913]}, "properties": {"Id": 468, "Name": "Skillebekk", "Change": -3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.733, 59.921]}, "properties": {"Id": 469, "Name": "Studentparlamentet", "Change": 1}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.744, 59.93]}, "properties": {"Id": 470, "Name": "St. Hanshaugen park nord", "Change": -182}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.722, 59.932]}, "properties": {"Id": 471, "Name": "Marienlyst", "Change": -44}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.754, 59.938]}, "properties": {"Id": 472, "Name": "Arendalsgata", "Change": 2}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.716, 59.927]}, "properties": {"Id": 473, "Name": "Majorstuveien", "Change": -4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.721, 59.941]}, "properties": {"Id": 474, "Name": "Blindern studentparkering", "Change": -182}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.76, 59.915]}, "properties": {"Id": 475, "Name": "Hausmanns bru", "Change": 116}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.736, 59.919]}, "properties": {"Id": 476, "Name": "Edvard Storms gate", "Change": 13}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.748, 59.915]}, "properties": {"Id": 477, "Name": "M\u00f8llergata", "Change": 289}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.75, 59.912]}, "properties": {"Id": 478, "Name": "Jernbanetorget", "Change": 18}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.723, 59.909]}, "properties": {"Id": 479, "Name": "Tjuvholmen", "Change": 442}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.766, 59.912]}, "properties": {"Id": 480, "Name": "Helga Helgesens plass", "Change": 511}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.736, 59.911]}, "properties": {"Id": 481, "Name": "R\u00e5dhusgata", "Change": 331}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.766, 59.953]}, "properties": {"Id": 482, "Name": "Nydalen", "Change": -93}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.758, 59.915]}, "properties": {"Id": 483, "Name": "Hausmanns gate", "Change": 67}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.684, 59.92]}, "properties": {"Id": 484, "Name": "Karenlyst all\u00e9", "Change": 289}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.776, 59.911]}, "properties": {"Id": 485, "Name": "Sommerfrydhagen", "Change": -62}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.726, 59.935]}, "properties": {"Id": 486, "Name": "Det Teologiske fakultet", "Change": -243}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.777, 59.927]}, "properties": {"Id": 487, "Name": "Carl Berners plass nord", "Change": -99}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.769, 59.935]}, "properties": {"Id": 488, "Name": "Torshovparken vest", "Change": -304}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.752, 59.916]}, "properties": {"Id": 489, "Name": "Torggata", "Change": 1010}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.757, 59.914]}, "properties": {"Id": 491, "Name": "Brugata", "Change": 68}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.762, 59.924]}, "properties": {"Id": 493, "Name": "Sofienbergparken nordvest", "Change": -52}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.73, 59.911]}, "properties": {"Id": 494, "Name": "R\u00e5dhusbrygge 4", "Change": 1059}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.757, 59.914]}, "properties": {"Id": 495, "Name": "Vaterlandsparken", "Change": 1119}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.719, 59.938]}, "properties": {"Id": 496, "Name": "Fysikkbygningen", "Change": -210}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.775, 59.919]}, "properties": {"Id": 497, "Name": "Sirkustomta", "Change": -118}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.799, 59.928]}, "properties": {"Id": 498, "Name": "HasleLinje", "Change": -175}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.746, 59.925]}, "properties": {"Id": 499, "Name": "Bjerregaards gate", "Change": -9}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.758, 59.917]}, "properties": {"Id": 500, "Name": "Anker Hotel", "Change": 52}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.765, 59.936]}, "properties": {"Id": 501, "Name": "Krebs' gate", "Change": -53}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.736, 59.936]}, "properties": {"Id": 502, "Name": "Ullev\u00e5l sykehus", "Change": -424}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.766, 59.928]}, "properties": {"Id": 503, "Name": "Fagerheimgata", "Change": -196}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.723, 59.932]}, "properties": {"Id": 505, "Name": "Marienlystparken", "Change": -52}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.769, 59.92]}, "properties": {"Id": 506, "Name": "Botanisk Hage vest", "Change": -8}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.764, 59.919]}, "properties": {"Id": 507, "Name": "Jens Bjelkes gate", "Change": 1}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.715, 59.93]}, "properties": {"Id": 508, "Name": "Majorstuen T-bane", "Change": -22}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.736, 59.913]}, "properties": {"Id": 509, "Name": "Kjeld Stubs gate", "Change": 1}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.722, 59.915]}, "properties": {"Id": 511, "Name": "Henrik Ibsens gate", "Change": -4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.79, 59.913]}, "properties": {"Id": 512, "Name": "Ensj\u00f8 T-bane", "Change": -396}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.796, 59.927]}, "properties": {"Id": 513, "Name": "B\u00f8kkerveien", "Change": -99}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.77, 59.921]}, "properties": {"Id": 514, "Name": "Sofienberggata", "Change": -4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.776, 59.923]}, "properties": {"Id": 516, "Name": "Finnmarksgata", "Change": -4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.748, 59.943]}, "properties": {"Id": 517, "Name": "T\u00e5senl\u00f8kka", "Change": -66}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.74, 59.925]}, "properties": {"Id": 518, "Name": "Ullev\u00e5lsveien", "Change": -57}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.704, 59.919]}, "properties": {"Id": 519, "Name": "Thomas Heftyes plass", "Change": -316}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.752, 59.919]}, "properties": {"Id": 521, "Name": "Jess Carlsens gate", "Change": 1}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.764, 59.912]}, "properties": {"Id": 522, "Name": "Mandalls gate", "Change": 2}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.762, 59.912]}, "properties": {"Id": 523, "Name": "T\u00f8yenbekken", "Change": 894}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.704, 59.933]}, "properties": {"Id": 524, "Name": "Volvat", "Change": -138}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.761, 59.937]}, "properties": {"Id": 525, "Name": "Myral\u00f8kka \u00d8st", "Change": -63}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.742, 59.914]}, "properties": {"Id": 526, "Name": "Lille Grensen", "Change": 18}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.752, 59.912]}, "properties": {"Id": 527, "Name": "Biskop Gunnerus' gate", "Change": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.711, 59.933]}, "properties": {"Id": 529, "Name": "Friggfeltet", "Change": -9}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.734, 59.919]}, "properties": {"Id": 530, "Name": "Holbergs Plass", "Change": 6}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.681, 59.936]}, "properties": {"Id": 531, "Name": "Monolittveien", "Change": -40}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.814, 59.909]}, "properties": {"Id": 532, "Name": "Brynseng T-bane", "Change": -111}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.725, 59.915]}, "properties": {"Id": 533, "Name": "S\u00f8rvest for Slottsparken", "Change": -3}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.721, 59.91]}, "properties": {"Id": 534, "Name": "Filipstadveien", "Change": 430}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.727, 59.92]}, "properties": {"Id": 535, "Name": "Uranienborgveien", "Change": -4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.705, 59.936]}, "properties": {"Id": 536, "Name": "Diakonhjemmet", "Change": -80}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.739, 59.918]}, "properties": {"Id": 537, "Name": "St. Olavs gate", "Change": 20}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.769, 59.934]}, "properties": {"Id": 540, "Name": "Lilleborgbanen", "Change": -298}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.748, 59.908]}, "properties": {"Id": 541, "Name": "Langkaia", "Change": -2}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.755, 59.922]}, "properties": {"Id": 542, "Name": "Gr\u00fcnerhagen Nord", "Change": 9}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.798, 59.914]}, "properties": {"Id": 543, "Name": "Fyrstikktorget", "Change": -220}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.748, 59.912]}, "properties": {"Id": 545, "Name": "Arkaden S\u00f8r", "Change": 554}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.748, 59.911]}, "properties": {"Id": 547, "Name": "Skippergata", "Change": 185}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.717, 59.917]}, "properties": {"Id": 548, "Name": "Colbj\u00f8rnsens gate", "Change": 2}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.746, 59.914]}, "properties": {"Id": 549, "Name": "Linaaes gate", "Change": 154}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.731, 59.926]}, "properties": {"Id": 550, "Name": "Thereses gate", "Change": -5}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.758, 59.922]}, "properties": {"Id": 551, "Name": "Olaf Ryes plass", "Change": 69}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.763, 59.908]}, "properties": {"Id": 552, "Name": "Trelastgata", "Change": 339}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.747, 59.914]}, "properties": {"Id": 553, "Name": "Skr\u00e5ninga", "Change": 439}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.751, 59.953]}, "properties": {"Id": 554, "Name": "T\u00e5sen Senter", "Change": -238}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.752, 59.934]}, "properties": {"Id": 555, "Name": "Griffenfeldts gate", "Change": -10}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.73, 59.926]}, "properties": {"Id": 556, "Name": "Pilestredet", "Change": -2}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.743, 59.914]}, "properties": {"Id": 557, "Name": "Akersgata", "Change": 772}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.728, 59.911]}, "properties": {"Id": 558, "Name": "Dokkveien", "Change": 15}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.676, 59.924]}, "properties": {"Id": 559, "Name": "Hoffsveien", "Change": 42}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.71, 59.946]}, "properties": {"Id": 560, "Name": "Gaustad T-bane", "Change": -27}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.726, 59.933]}, "properties": {"Id": 561, "Name": "Kirkeveien", "Change": -282}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.732, 59.917]}, "properties": {"Id": 562, "Name": "Slottsparken \u00d8st", "Change": -21}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.723, 59.913]}, "properties": {"Id": 563, "Name": "Huitfeldts gate", "Change": -6}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.727, 59.922]}, "properties": {"Id": 564, "Name": "Oscars gate", "Change": -33}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.773, 59.931]}, "properties": {"Id": 565, "Name": "Mailundveien", "Change": -83}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.676, 59.927]}, "properties": {"Id": 566, "Name": "Hoff terrasse holdeplass", "Change": 15}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.714, 59.945]}, "properties": {"Id": 567, "Name": "Forskningsveien", "Change": -391}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.713, 59.917]}, "properties": {"Id": 568, "Name": "Frognerveien", "Change": -39}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.766, 59.918]}, "properties": {"Id": 569, "Name": "Botanisk hage s\u00f8r-vest", "Change": -26}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.71, 59.935]}, "properties": {"Id": 570, "Name": "Fr\u00f8en T-bane", "Change": -83}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.741, 59.91]}, "properties": {"Id": 571, "Name": "Over R\u00e5dhusgata", "Change": 69}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.68, 59.922]}, "properties": {"Id": 572, "Name": "Sk\u00f8yen", "Change": 308}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.735, 59.912]}, "properties": {"Id": 573, "Name": "Tordenskiolds gate", "Change": 69}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.761, 59.911]}, "properties": {"Id": 574, "Name": "Annette Thommessens Plass", "Change": 6}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.733, 59.947]}, "properties": {"Id": 575, "Name": "Sognsveien", "Change": -218}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.747, 59.911]}, "properties": {"Id": 576, "Name": "Dronningens gate", "Change": 26}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.748, 59.912]}, "properties": {"Id": 577, "Name": "Arkaden Nord", "Change": 664}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.739, 59.923]}, "properties": {"Id": 578, "Name": "Hallings gate", "Change": -95}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.725, 59.925]}, "properties": {"Id": 579, "Name": "Bogstadveien", "Change": -8}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.723, 59.939]}, "properties": {"Id": 580, "Name": "Georg Morgenstiernes hus", "Change": -339}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.781, 59.908]}, "properties": {"Id": 581, "Name": "Jordalgata", "Change": -271}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.751, 59.941]}, "properties": {"Id": 582, "Name": "Stavangergata", "Change": -539}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.779, 59.907]}, "properties": {"Id": 583, "Name": "Galgeberg", "Change": -52}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.755, 59.921]}, "properties": {"Id": 585, "Name": "Nordre gate", "Change": 193}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.769, 59.929]}, "properties": {"Id": 586, "Name": "K\u00f8benhavngata busstopp", "Change": -83}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.72, 59.919]}, "properties": {"Id": 587, "Name": "Riddervoldplass", "Change": -32}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.718, 59.918]}, "properties": {"Id": 588, "Name": "Meltzers gate", "Change": -119}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.675, 59.898]}, "properties": {"Id": 589, "Name": "Huk", "Change": 49}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.714, 59.929]}, "properties": {"Id": 590, "Name": "Majorstua skole", "Change": -448}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.782, 59.925]}, "properties": {"Id": 591, "Name": "Grenseveien", "Change": -42}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.76, 59.946]}, "properties": {"Id": 592, "Name": "Badebakken", "Change": -105}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.769, 59.939]}, "properties": {"Id": 593, "Name": "Bj\u00f8lsen m\u00f8lle", "Change": -298}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.782, 59.915]}, "properties": {"Id": 594, "Name": "Kampen park \u00d8st", "Change": -383}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.701, 59.915]}, "properties": {"Id": 595, "Name": "Skarpsnoparken", "Change": -10}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.736, 59.931]}, "properties": {"Id": 596, "Name": "Idioten", "Change": -263}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.75, 59.921]}, "properties": {"Id": 597, "Name": "Fredensborg", "Change": 18}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.766, 59.923]}, "properties": {"Id": 598, "Name": "Sofienbergparken nord", "Change": -45}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.75, 59.91]}, "properties": {"Id": 599, "Name": "Pal\u00e9haven", "Change": 832}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.758, 59.953]}, "properties": {"Id": 601, "Name": "Rolf Wickstr\u00f8ms vei", "Change": -159}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.676, 59.93]}, "properties": {"Id": 602, "Name": "Jarlsborgveien", "Change": -33}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.705, 59.923]}, "properties": {"Id": 603, "Name": "Frogner plass", "Change": -62}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.78, 59.917]}, "properties": {"Id": 605, "Name": "\u00d8kernveien", "Change": -62}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.752, 59.934]}, "properties": {"Id": 606, "Name": "Stockfleths gate", "Change": -7}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.759, 59.933]}, "properties": {"Id": 607, "Name": "Marcus Thranes gate", "Change": -48}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.746, 59.931]}, "properties": {"Id": 608, "Name": "Colletts gate", "Change": -79}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.749, 59.911]}, "properties": {"Id": 609, "Name": "Fred Olsens gate", "Change": 458}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.791, 59.91]}, "properties": {"Id": 610, "Name": "Sotahj\u00f8rnet", "Change": -229}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.742, 59.908]}, "properties": {"Id": 611, "Name": "Bankplassen", "Change": 907}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.783, 59.917]}, "properties": {"Id": 612, "Name": "Ensj\u00f8veien", "Change": -245}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.714, 59.921]}, "properties": {"Id": 613, "Name": "Schives gate", "Change": -369}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.781, 59.939]}, "properties": {"Id": 614, "Name": "Sinsen T-bane", "Change": -380}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.73, 59.914]}, "properties": {"Id": 615, "Name": "Munkedamsveien", "Change": -5}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.747, 59.907]}, "properties": {"Id": 616, "Name": "Salt", "Change": 0}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.75, 59.927]}, "properties": {"Id": 617, "Name": "Bjerregaardsgate \u00d8st", "Change": -94}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.724, 59.942]}, "properties": {"Id": 618, "Name": "Bak Niels Treschows hus s\u00f8r", "Change": -212}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.723, 59.943]}, "properties": {"Id": 619, "Name": "Bak Niels Treschows hus nord", "Change": -175}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.735, 59.924]}, "properties": {"Id": 620, "Name": "Bislettgata", "Change": -503}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.778, 59.933]}, "properties": {"Id": 621, "Name": "Torshovdalen \u00f8st", "Change": -166}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.731, 59.924]}, "properties": {"Id": 622, "Name": "Pilestredet 63", "Change": -4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.731, 59.915]}, "properties": {"Id": 623, "Name": "7 Juni Plassen", "Change": 101}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.768, 59.929]}, "properties": {"Id": 624, "Name": "D\u00e6lenenggata", "Change": -12}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.738, 59.913]}, "properties": {"Id": 625, "Name": "Spikersuppa \u00d8st", "Change": 587}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.691, 59.92]}, "properties": {"Id": 626, "Name": "Drammensveien", "Change": 83}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.679, 59.923]}, "properties": {"Id": 627, "Name": "Sk\u00f8yen Stasjon", "Change": 111}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.762, 59.916]}, "properties": {"Id": 734, "Name": "Nylandsveien", "Change": 123}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.767, 59.903]}, "properties": {"Id": 735, "Name": "Oslo Hospital", "Change": -13}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.768, 59.908]}, "properties": {"Id": 737, "Name": "Munkegata trikkestopp", "Change": 10}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.778, 59.903]}, "properties": {"Id": 738, "Name": "Lodalen busstopp", "Change": 4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.749, 59.917]}, "properties": {"Id": 739, "Name": "Hammersborg Torg", "Change": 75}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.793, 59.924]}, "properties": {"Id": 742, "Name": "Hasle", "Change": -314}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.762, 59.932]}, "properties": {"Id": 744, "Name": "Hall\u00e9nparken", "Change": -53}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.692, 59.919]}, "properties": {"Id": 746, "Name": "Bygd\u00f8y all\u00e9", "Change": -1}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.716, 59.914]}, "properties": {"Id": 748, "Name": "Hydroparken", "Change": -8}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.743, 59.91]}, "properties": {"Id": 787, "Name": "Kirkegata 15", "Change": -4}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.768, 59.913]}, "properties": {"Id": 970, "Name": "Enerhaugen", "Change": -30}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.704, 59.943]}, "properties": {"Id": 1009, "Name": "Borgenveien", "Change": -30}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.741, 59.915]}, "properties": {"Id": 1023, "Name": "Professor Aschehougs plass", "Change": 15}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.737, 59.911]}, "properties": {"Id": 1101, "Name": "Stortingstunellen", "Change": 171}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.73, 59.911]}, "properties": {"Id": 1755, "Name": "Aker Brygge", "Change": 352}}
-,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.779, 59.906]}, "properties": {"Id": 1919, "Name": "Kv\u00e6rnerveien", "Change": -43}}
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.778, 59.916]}, "properties": {"Id": 377, "Name": "T\u00f8yenparken", "Change": -88, "Zone": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.711, 59.93]}, "properties": {"Id": 378, "Name": "Colosseum Kino", "Change": -7, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.759, 59.939]}, "properties": {"Id": 380, "Name": "Bentsebrugata", "Change": -120, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.762, 59.913]}, "properties": {"Id": 381, "Name": "Gr\u00f8nlands torg", "Change": 128, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.733, 59.93]}, "properties": {"Id": 382, "Name": "Stensgata", "Change": -8, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.749, 59.935]}, "properties": {"Id": 383, "Name": "Arkitekt Rivertz Plass", "Change": -707, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.744, 59.919]}, "properties": {"Id": 384, "Name": "V\u00e5r Frelsers gravlund s\u00f8r", "Change": -26, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.758, 59.919]}, "properties": {"Id": 385, "Name": "S\u00f8ndre gate", "Change": 55, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.715, 59.931]}, "properties": {"Id": 386, "Name": "Slemdalsveien", "Change": -70, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.735, 59.915]}, "properties": {"Id": 387, "Name": "Studenterlunden", "Change": 9, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.716, 59.916]}, "properties": {"Id": 388, "Name": "Skovveien", "Change": -34, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.734, 59.921]}, "properties": {"Id": 389, "Name": "Pilestredet Studenthus", "Change": -3, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.733, 59.914]}, "properties": {"Id": 390, "Name": "Saga Kino", "Change": 72, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.738, 59.927]}, "properties": {"Id": 391, "Name": "St. Hanshaugen park vest", "Change": -339, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.752, 59.91]}, "properties": {"Id": 392, "Name": "Sj\u00f8siden ved fontenen", "Change": 1173, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.774, 59.939]}, "properties": {"Id": 393, "Name": "Hans Nielsen Hauges plass", "Change": -124, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.76, 59.944]}, "properties": {"Id": 394, "Name": "Bj\u00f8lsen Studentby", "Change": -175, "Zone": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.71, 59.926]}, "properties": {"Id": 395, "Name": "Frogner Tennisklubb", "Change": -23, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.747, 59.913]}, "properties": {"Id": 396, "Name": "Kirkeristen", "Change": 491, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.774, 59.947]}, "properties": {"Id": 397, "Name": "Storo Storsenter", "Change": -572, "Zone": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.759, 59.928]}, "properties": {"Id": 398, "Name": "Ringnes Park", "Change": -4, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.749, 59.93]}, "properties": {"Id": 399, "Name": "Uelands gate", "Change": -398, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.735, 59.92]}, "properties": {"Id": 400, "Name": "OsloMet", "Change": -3, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.792, 59.931]}, "properties": {"Id": 402, "Name": "L\u00f8renveien", "Change": -753, "Zone": 0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.72, 59.914]}, "properties": {"Id": 404, "Name": "Oslo Handelsgymnasium", "Change": 18, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.709, 59.928]}, "properties": {"Id": 405, "Name": "Frognerbadet", "Change": -20, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.776, 59.925]}, "properties": {"Id": 406, "Name": "Carl Berners plass s\u00f8r", "Change": -37, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.752, 59.938]}, "properties": {"Id": 407, "Name": "Sagene bussholdeplass", "Change": -477, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.774, 59.915]}, "properties": {"Id": 408, "Name": "T\u00f8yen skole", "Change": 8, "Zone": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.73, 59.94]}, "properties": {"Id": 409, "Name": "John Colletts plass", "Change": -202, "Zone": 7}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.75, 59.929]}, "properties": {"Id": 410, "Name": "Landstads gate", "Change": -992, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.793, 59.923]}, "properties": {"Id": 411, "Name": "Hasle Torg", "Change": -509, "Zone": 0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.755, 59.918]}, "properties": {"Id": 412, "Name": "Jakob kirke", "Change": 11, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.717, 59.929]}, "properties": {"Id": 413, "Name": "Majorstuen", "Change": -68, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.739, 59.91]}, "properties": {"Id": 414, "Name": "Kontraskj\u00e6ret", "Change": -10, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.781, 59.93]}, "properties": {"Id": 415, "Name": "Sinsenveien", "Change": -51, "Zone": 0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.741, 59.932]}, "properties": {"Id": 416, "Name": "Tannlegeh\u00f8yskolen", "Change": -213, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.721, 59.922]}, "properties": {"Id": 417, "Name": "Uranienborgparken", "Change": -320, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.687, 59.908]}, "properties": {"Id": 418, "Name": "Norsk Folkemuseum", "Change": 9, "Zone": 5}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.766, 59.94]}, "properties": {"Id": 420, "Name": "Bj\u00f8lsendumpa", "Change": -95, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.751, 59.928]}, "properties": {"Id": 421, "Name": "Alexander Kiellands Plass", "Change": -11, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.761, 59.92]}, "properties": {"Id": 423, "Name": "Schous plass", "Change": 23, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.761, 59.926]}, "properties": {"Id": 424, "Name": "Birkelunden", "Change": 26, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.734, 59.933]}, "properties": {"Id": 425, "Name": "Adamstuen", "Change": -28, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.708, 59.917]}, "properties": {"Id": 426, "Name": "Gimle Kino", "Change": -692, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.718, 59.92]}, "properties": {"Id": 427, "Name": "Briskeby", "Change": -331, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.697, 59.919]}, "properties": {"Id": 428, "Name": "Olav Kyrres plass", "Change": 6, "Zone": 5}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.686, 59.922]}, "properties": {"Id": 429, "Name": "Thune", "Change": 233, "Zone": 5}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.736, 59.914]}, "properties": {"Id": 430, "Name": "Spikersuppa Vest", "Change": 1553, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.773, 59.927]}, "properties": {"Id": 431, "Name": "Chr. Michelsens Gate", "Change": 6, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.74, 59.925]}, "properties": {"Id": 432, "Name": "St. Hanshaugen park s\u00f8r", "Change": -141, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.749, 59.932]}, "properties": {"Id": 433, "Name": "Ila", "Change": -429, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.735, 59.936]}, "properties": {"Id": 434, "Name": "Lindern", "Change": -650, "Zone": 7}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.715, 59.915]}, "properties": {"Id": 435, "Name": "Fram-g\u00e5rden", "Change": -175, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.713, 59.924]}, "properties": {"Id": 436, "Name": "Vestkanttorvet", "Change": -161, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.751, 59.915]}, "properties": {"Id": 437, "Name": "Sentrum Scene", "Change": -7, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.769, 59.949]}, "properties": {"Id": 438, "Name": "BI Nydalen", "Change": -794, "Zone": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.756, 59.928]}, "properties": {"Id": 439, "Name": "M\u00f8lleparken", "Change": -32, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.762, 59.917]}, "properties": {"Id": 440, "Name": "Lakkegata", "Change": -8, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.741, 59.904]}, "properties": {"Id": 441, "Name": "Vippetangen \u00f8st", "Change": 75, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.751, 59.923]}, "properties": {"Id": 442, "Name": "Vulkan", "Change": -11, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.752, 59.91]}, "properties": {"Id": 443, "Name": "Sj\u00f8siden ved trappen", "Change": 1171, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.75, 59.925]}, "properties": {"Id": 444, "Name": "AHO", "Change": -2, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.677, 59.922]}, "properties": {"Id": 445, "Name": "Sj\u00f8lyst", "Change": 61, "Zone": 5}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.731, 59.925]}, "properties": {"Id": 446, "Name": "Bislett Stadion", "Change": -748, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.786, 59.904]}, "properties": {"Id": 447, "Name": "Kv\u00e6rnerbyen", "Change": -51, "Zone": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.754, 59.912]}, "properties": {"Id": 448, "Name": "Oslo Plaza", "Change": 5, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.726, 59.914]}, "properties": {"Id": 449, "Name": "Rusel\u00f8kkg\u00e5rden", "Change": 25, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.709, 59.92]}, "properties": {"Id": 450, "Name": "Elisenberg", "Change": -115, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.726, 59.929]}, "properties": {"Id": 451, "Name": "Suhms gate", "Change": -20, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.741, 59.904]}, "properties": {"Id": 452, "Name": "Vippetangen vest", "Change": 163, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.71, 59.928]}, "properties": {"Id": 453, "Name": "Frogner Stadion", "Change": -332, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.651, 59.92]}, "properties": {"Id": 454, "Name": "Furulund", "Change": -8, "Zone": 5}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.762, 59.922]}, "properties": {"Id": 455, "Name": "Sofienbergparken s\u00f8r", "Change": -7, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.705, 59.91]}, "properties": {"Id": 456, "Name": "Frognerstranda", "Change": 16, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.772, 59.923]}, "properties": {"Id": 457, "Name": "Trondheimsveien", "Change": 40, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.778, 59.928]}, "properties": {"Id": 458, "Name": "Jenny Braatens Plass", "Change": -48, "Zone": 0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.718, 59.928]}, "properties": {"Id": 459, "Name": "Valkyrieplassen", "Change": -2, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.769, 59.915]}, "properties": {"Id": 460, "Name": "Botanisk Hage s\u00f8r", "Change": -96, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.787, 59.909]}, "properties": {"Id": 461, "Name": "V\u00e5lerenga", "Change": -23, "Zone": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.731, 59.927]}, "properties": {"Id": 462, "Name": "Stensparken", "Change": -45, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.754, 59.906]}, "properties": {"Id": 464, "Name": "Sukkerbiten", "Change": 1618, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.756, 59.909]}, "properties": {"Id": 465, "Name": "Bj\u00f8rvika", "Change": 926, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.73, 59.938]}, "properties": {"Id": 466, "Name": "Ullev\u00e5lsall\u00e9en", "Change": -21, "Zone": 7}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.71, 59.913]}, "properties": {"Id": 468, "Name": "Skillebekk", "Change": -26, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.733, 59.921]}, "properties": {"Id": 469, "Name": "Studentparlamentet", "Change": -64, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.744, 59.93]}, "properties": {"Id": 470, "Name": "St. Hanshaugen park nord", "Change": -298, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.722, 59.932]}, "properties": {"Id": 471, "Name": "Marienlyst", "Change": -24, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.754, 59.938]}, "properties": {"Id": 472, "Name": "Arendalsgata", "Change": 2, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.716, 59.927]}, "properties": {"Id": 473, "Name": "Majorstuveien", "Change": -30, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.721, 59.941]}, "properties": {"Id": 474, "Name": "Blindern studentparkering", "Change": -296, "Zone": 7}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.76, 59.915]}, "properties": {"Id": 475, "Name": "Hausmanns bru", "Change": -10, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.736, 59.919]}, "properties": {"Id": 476, "Name": "Edvard Storms gate", "Change": -10, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.748, 59.915]}, "properties": {"Id": 477, "Name": "M\u00f8llergata", "Change": 372, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.75, 59.912]}, "properties": {"Id": 478, "Name": "Jernbanetorget", "Change": 24, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.723, 59.909]}, "properties": {"Id": 479, "Name": "Tjuvholmen", "Change": 230, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.766, 59.912]}, "properties": {"Id": 480, "Name": "Helga Helgesens plass", "Change": 461, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.736, 59.911]}, "properties": {"Id": 481, "Name": "R\u00e5dhusgata", "Change": 385, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.766, 59.953]}, "properties": {"Id": 482, "Name": "Nydalen", "Change": -70, "Zone": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.758, 59.915]}, "properties": {"Id": 483, "Name": "Hausmanns gate", "Change": -18, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.684, 59.92]}, "properties": {"Id": 484, "Name": "Karenlyst all\u00e9", "Change": 482, "Zone": 5}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.776, 59.911]}, "properties": {"Id": 485, "Name": "Sommerfrydhagen", "Change": -156, "Zone": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.726, 59.935]}, "properties": {"Id": 486, "Name": "Det Teologiske fakultet", "Change": -457, "Zone": 7}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.777, 59.927]}, "properties": {"Id": 487, "Name": "Carl Berners plass nord", "Change": -16, "Zone": 0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.769, 59.935]}, "properties": {"Id": 488, "Name": "Torshovparken vest", "Change": -588, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.752, 59.916]}, "properties": {"Id": 489, "Name": "Torggata", "Change": 1448, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.757, 59.914]}, "properties": {"Id": 491, "Name": "Brugata", "Change": 41, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.761, 59.913]}, "properties": {"Id": 492, "Name": "Goethe Institut", "Change": 4, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.762, 59.924]}, "properties": {"Id": 493, "Name": "Sofienbergparken nordvest", "Change": -17, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.73, 59.911]}, "properties": {"Id": 494, "Name": "R\u00e5dhusbrygge 4", "Change": 2291, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.757, 59.914]}, "properties": {"Id": 495, "Name": "Vaterlandsparken", "Change": 1550, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.719, 59.938]}, "properties": {"Id": 496, "Name": "Fysikkbygningen", "Change": -262, "Zone": 7}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.775, 59.919]}, "properties": {"Id": 497, "Name": "Sirkustomta", "Change": -253, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.799, 59.928]}, "properties": {"Id": 498, "Name": "HasleLinje", "Change": -178, "Zone": 0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.746, 59.925]}, "properties": {"Id": 499, "Name": "Bjerregaards gate", "Change": -3, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.758, 59.917]}, "properties": {"Id": 500, "Name": "Anker Hotel", "Change": -45, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.765, 59.936]}, "properties": {"Id": 501, "Name": "Krebs' gate", "Change": 27, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.736, 59.936]}, "properties": {"Id": 502, "Name": "Ullev\u00e5l sykehus", "Change": -690, "Zone": 7}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.766, 59.928]}, "properties": {"Id": 503, "Name": "Fagerheimgata", "Change": -218, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.723, 59.932]}, "properties": {"Id": 505, "Name": "Marienlystparken", "Change": -246, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.769, 59.92]}, "properties": {"Id": 506, "Name": "Botanisk Hage vest", "Change": 42, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.764, 59.919]}, "properties": {"Id": 507, "Name": "Jens Bjelkes gate", "Change": -1, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.715, 59.93]}, "properties": {"Id": 508, "Name": "Majorstuen T-bane", "Change": -22, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.736, 59.913]}, "properties": {"Id": 509, "Name": "Kjeld Stubs gate", "Change": 8, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.722, 59.915]}, "properties": {"Id": 511, "Name": "Henrik Ibsens gate", "Change": 7, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.79, 59.913]}, "properties": {"Id": 512, "Name": "Ensj\u00f8 T-bane", "Change": -624, "Zone": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.796, 59.927]}, "properties": {"Id": 513, "Name": "B\u00f8kkerveien", "Change": -129, "Zone": 0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.77, 59.921]}, "properties": {"Id": 514, "Name": "Sofienberggata", "Change": 14, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.776, 59.923]}, "properties": {"Id": 516, "Name": "Finnmarksgata", "Change": -18, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.748, 59.943]}, "properties": {"Id": 517, "Name": "T\u00e5senl\u00f8kka", "Change": -87, "Zone": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.74, 59.925]}, "properties": {"Id": 518, "Name": "Ullev\u00e5lsveien", "Change": -82, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.704, 59.919]}, "properties": {"Id": 519, "Name": "Thomas Heftyes plass", "Change": -177, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.752, 59.919]}, "properties": {"Id": 521, "Name": "Jess Carlsens gate", "Change": 0, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.764, 59.912]}, "properties": {"Id": 522, "Name": "Mandalls gate", "Change": -3, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.762, 59.912]}, "properties": {"Id": 523, "Name": "T\u00f8yenbekken", "Change": 1405, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.704, 59.933]}, "properties": {"Id": 524, "Name": "Volvat", "Change": -124, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.761, 59.937]}, "properties": {"Id": 525, "Name": "Myral\u00f8kka \u00d8st", "Change": -65, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.742, 59.914]}, "properties": {"Id": 526, "Name": "Lille Grensen", "Change": -16, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.752, 59.912]}, "properties": {"Id": 527, "Name": "Biskop Gunnerus' gate", "Change": -37, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.744, 59.913]}, "properties": {"Id": 528, "Name": "Nedre Slottsgate", "Change": -7, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.711, 59.933]}, "properties": {"Id": 529, "Name": "Friggfeltet", "Change": -93, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.734, 59.919]}, "properties": {"Id": 530, "Name": "Holbergs Plass", "Change": -1, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.681, 59.936]}, "properties": {"Id": 531, "Name": "Monolittveien", "Change": -36, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.814, 59.909]}, "properties": {"Id": 532, "Name": "Brynseng T-bane", "Change": -129, "Zone": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.725, 59.915]}, "properties": {"Id": 533, "Name": "S\u00f8rvest for Slottsparken", "Change": -1, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.721, 59.91]}, "properties": {"Id": 534, "Name": "Filipstadveien", "Change": 1411, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.727, 59.92]}, "properties": {"Id": 535, "Name": "Uranienborgveien", "Change": -49, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.705, 59.936]}, "properties": {"Id": 536, "Name": "Diakonhjemmet", "Change": -101, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.739, 59.918]}, "properties": {"Id": 537, "Name": "St. Olavs gate", "Change": -12, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.769, 59.934]}, "properties": {"Id": 540, "Name": "Lilleborgbanen", "Change": -195, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.748, 59.908]}, "properties": {"Id": 541, "Name": "Langkaia", "Change": 0, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.755, 59.922]}, "properties": {"Id": 542, "Name": "Gr\u00fcnerhagen Nord", "Change": -7, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.798, 59.914]}, "properties": {"Id": 543, "Name": "Fyrstikktorget", "Change": -410, "Zone": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.748, 59.912]}, "properties": {"Id": 545, "Name": "Arkaden S\u00f8r", "Change": 784, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.748, 59.911]}, "properties": {"Id": 547, "Name": "Skippergata", "Change": 143, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.717, 59.917]}, "properties": {"Id": 548, "Name": "Colbj\u00f8rnsens gate", "Change": -26, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.746, 59.914]}, "properties": {"Id": 549, "Name": "Linaaes gate", "Change": 109, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.731, 59.926]}, "properties": {"Id": 550, "Name": "Thereses gate", "Change": 3, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.758, 59.922]}, "properties": {"Id": 551, "Name": "Olaf Ryes plass", "Change": 186, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.763, 59.908]}, "properties": {"Id": 552, "Name": "Trelastgata", "Change": 255, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.747, 59.914]}, "properties": {"Id": 553, "Name": "Skr\u00e5ninga", "Change": 431, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.751, 59.953]}, "properties": {"Id": 554, "Name": "T\u00e5sen Senter", "Change": -283, "Zone": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.752, 59.934]}, "properties": {"Id": 555, "Name": "Griffenfeldts gate", "Change": -48, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.73, 59.926]}, "properties": {"Id": 556, "Name": "Pilestredet", "Change": 4, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.743, 59.914]}, "properties": {"Id": 557, "Name": "Akersgata", "Change": 588, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.728, 59.911]}, "properties": {"Id": 558, "Name": "Dokkveien", "Change": -44, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.676, 59.924]}, "properties": {"Id": 559, "Name": "Hoffsveien", "Change": 52, "Zone": 5}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.71, 59.946]}, "properties": {"Id": 560, "Name": "Gaustad T-bane", "Change": -19, "Zone": 7}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.726, 59.933]}, "properties": {"Id": 561, "Name": "Kirkeveien", "Change": -216, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.732, 59.917]}, "properties": {"Id": 562, "Name": "Slottsparken \u00d8st", "Change": -56, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.723, 59.913]}, "properties": {"Id": 563, "Name": "Huitfeldts gate", "Change": -7, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.727, 59.922]}, "properties": {"Id": 564, "Name": "Oscars gate", "Change": -91, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.773, 59.931]}, "properties": {"Id": 565, "Name": "Mailundveien", "Change": -16, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.676, 59.927]}, "properties": {"Id": 566, "Name": "Hoff terrasse holdeplass", "Change": 6, "Zone": 5}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.714, 59.945]}, "properties": {"Id": 567, "Name": "Forskningsveien", "Change": -270, "Zone": 7}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.713, 59.917]}, "properties": {"Id": 568, "Name": "Frognerveien", "Change": -106, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.766, 59.918]}, "properties": {"Id": 569, "Name": "Botanisk hage s\u00f8r-vest", "Change": -25, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.71, 59.935]}, "properties": {"Id": 570, "Name": "Fr\u00f8en T-bane", "Change": -7, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.741, 59.91]}, "properties": {"Id": 571, "Name": "Over R\u00e5dhusgata", "Change": 11, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.68, 59.922]}, "properties": {"Id": 572, "Name": "Sk\u00f8yen", "Change": 357, "Zone": 5}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.735, 59.912]}, "properties": {"Id": 573, "Name": "Tordenskiolds gate", "Change": 94, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.761, 59.911]}, "properties": {"Id": 574, "Name": "Annette Thommessens Plass", "Change": 4, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.733, 59.947]}, "properties": {"Id": 575, "Name": "Sognsveien", "Change": -240, "Zone": 7}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.747, 59.911]}, "properties": {"Id": 576, "Name": "Dronningens gate", "Change": -23, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.748, 59.912]}, "properties": {"Id": 577, "Name": "Arkaden Nord", "Change": 884, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.739, 59.923]}, "properties": {"Id": 578, "Name": "Hallings gate", "Change": -157, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.725, 59.925]}, "properties": {"Id": 579, "Name": "Bogstadveien", "Change": -31, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.723, 59.939]}, "properties": {"Id": 580, "Name": "Georg Morgenstiernes hus", "Change": -509, "Zone": 7}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.781, 59.908]}, "properties": {"Id": 581, "Name": "Jordalgata", "Change": -356, "Zone": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.751, 59.941]}, "properties": {"Id": 582, "Name": "Stavangergata", "Change": -799, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.779, 59.907]}, "properties": {"Id": 583, "Name": "Galgeberg", "Change": -114, "Zone": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.755, 59.921]}, "properties": {"Id": 585, "Name": "Nordre gate", "Change": 2, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.769, 59.929]}, "properties": {"Id": 586, "Name": "K\u00f8benhavngata busstopp", "Change": -1, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.72, 59.919]}, "properties": {"Id": 587, "Name": "Riddervoldplass", "Change": -50, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.718, 59.918]}, "properties": {"Id": 588, "Name": "Meltzers gate", "Change": -22, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.675, 59.898]}, "properties": {"Id": 589, "Name": "Huk", "Change": 212, "Zone": 5}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.714, 59.929]}, "properties": {"Id": 590, "Name": "Majorstua skole", "Change": -373, "Zone": 6}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.782, 59.925]}, "properties": {"Id": 591, "Name": "Grenseveien", "Change": -38, "Zone": 0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.76, 59.946]}, "properties": {"Id": 592, "Name": "Badebakken", "Change": 1, "Zone": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.769, 59.939]}, "properties": {"Id": 593, "Name": "Bj\u00f8lsen m\u00f8lle", "Change": -219, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.782, 59.915]}, "properties": {"Id": 594, "Name": "Kampen park \u00d8st", "Change": -570, "Zone": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.701, 59.915]}, "properties": {"Id": 595, "Name": "Skarpsnoparken", "Change": -3, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.736, 59.931]}, "properties": {"Id": 596, "Name": "Idioten", "Change": -118, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.75, 59.921]}, "properties": {"Id": 597, "Name": "Fredensborg", "Change": -5, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.766, 59.923]}, "properties": {"Id": 598, "Name": "Sofienbergparken nord", "Change": -93, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.75, 59.91]}, "properties": {"Id": 599, "Name": "Pal\u00e9haven", "Change": 1630, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.758, 59.953]}, "properties": {"Id": 601, "Name": "Rolf Wickstr\u00f8ms vei", "Change": -146, "Zone": 4}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.676, 59.93]}, "properties": {"Id": 602, "Name": "Jarlsborgveien", "Change": -28, "Zone": 5}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.705, 59.923]}, "properties": {"Id": 603, "Name": "Frogner plass", "Change": -60, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.78, 59.917]}, "properties": {"Id": 605, "Name": "\u00d8kernveien", "Change": -279, "Zone": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.752, 59.934]}, "properties": {"Id": 606, "Name": "Stockfleths gate", "Change": -21, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.759, 59.933]}, "properties": {"Id": 607, "Name": "Marcus Thranes gate", "Change": -212, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.746, 59.931]}, "properties": {"Id": 608, "Name": "Colletts gate", "Change": -172, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.749, 59.911]}, "properties": {"Id": 609, "Name": "Fred Olsens gate", "Change": 184, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.791, 59.91]}, "properties": {"Id": 610, "Name": "Sotahj\u00f8rnet", "Change": -245, "Zone": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.742, 59.908]}, "properties": {"Id": 611, "Name": "Bankplassen", "Change": 1256, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.783, 59.917]}, "properties": {"Id": 612, "Name": "Ensj\u00f8veien", "Change": -308, "Zone": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.714, 59.921]}, "properties": {"Id": 613, "Name": "Schives gate", "Change": -556, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.781, 59.939]}, "properties": {"Id": 614, "Name": "Sinsen T-bane", "Change": -319, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.73, 59.914]}, "properties": {"Id": 615, "Name": "Munkedamsveien", "Change": 11, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.747, 59.907]}, "properties": {"Id": 616, "Name": "Salt", "Change": 4, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.75, 59.927]}, "properties": {"Id": 617, "Name": "Bjerregaardsgate \u00d8st", "Change": -111, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.724, 59.942]}, "properties": {"Id": 618, "Name": "Bak Niels Treschows hus s\u00f8r", "Change": -94, "Zone": 7}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.723, 59.943]}, "properties": {"Id": 619, "Name": "Bak Niels Treschows hus nord", "Change": -40, "Zone": 7}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.735, 59.924]}, "properties": {"Id": 620, "Name": "Bislettgata", "Change": -661, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.778, 59.933]}, "properties": {"Id": 621, "Name": "Torshovdalen \u00f8st", "Change": -1, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.731, 59.924]}, "properties": {"Id": 622, "Name": "Pilestredet 63", "Change": 6, "Zone": 9}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.731, 59.915]}, "properties": {"Id": 623, "Name": "7 Juni Plassen", "Change": 19, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.768, 59.929]}, "properties": {"Id": 624, "Name": "D\u00e6lenenggata", "Change": 65, "Zone": 1}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.738, 59.913]}, "properties": {"Id": 625, "Name": "Spikersuppa \u00d8st", "Change": 502, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.691, 59.92]}, "properties": {"Id": 626, "Name": "Drammensveien", "Change": 17, "Zone": 5}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.679, 59.923]}, "properties": {"Id": 627, "Name": "Sk\u00f8yen Stasjon", "Change": 89, "Zone": 5}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.762, 59.916]}, "properties": {"Id": 734, "Name": "Nylandsveien", "Change": 54, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.767, 59.903]}, "properties": {"Id": 735, "Name": "Oslo Hospital", "Change": -46, "Zone": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.768, 59.908]}, "properties": {"Id": 737, "Name": "Munkegata trikkestopp", "Change": 36, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.778, 59.903]}, "properties": {"Id": 738, "Name": "Lodalen busstopp", "Change": 4, "Zone": 3}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.749, 59.917]}, "properties": {"Id": 739, "Name": "Hammersborg Torg", "Change": 26, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.793, 59.924]}, "properties": {"Id": 742, "Name": "Hasle", "Change": -609, "Zone": 0}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.762, 59.932]}, "properties": {"Id": 744, "Name": "Hall\u00e9nparken", "Change": 39, "Zone": 2}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.692, 59.919]}, "properties": {"Id": 746, "Name": "Bygd\u00f8y all\u00e9", "Change": 2, "Zone": 5}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.716, 59.914]}, "properties": {"Id": 748, "Name": "Hydroparken", "Change": 7, "Zone": 10}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.743, 59.91]}, "properties": {"Id": 787, "Name": "Kirkegata 15", "Change": -7, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.768, 59.913]}, "properties": {"Id": 970, "Name": "Enerhaugen", "Change": -28, "Zone": 11}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.704, 59.943]}, "properties": {"Id": 1009, "Name": "Borgenveien", "Change": -5, "Zone": 7}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.741, 59.915]}, "properties": {"Id": 1023, "Name": "Professor Aschehougs plass", "Change": 12, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.737, 59.911]}, "properties": {"Id": 1101, "Name": "Stortingstunellen", "Change": 170, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.73, 59.911]}, "properties": {"Id": 1755, "Name": "Aker Brygge", "Change": 335, "Zone": 8}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.779, 59.906]}, "properties": {"Id": 1919, "Name": "Kv\u00e6rnerveien", "Change": -4, "Zone": 3}}
 ]}
